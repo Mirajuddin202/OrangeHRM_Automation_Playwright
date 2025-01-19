@@ -34,4 +34,6 @@ This repository includes:
 
 ### Output
 ![Screenshot 2025-01-18 233329](https://github.com/user-attachments/assets/e094d374-b4be-4e2c-9e63-0ead35f0c880)
+![image](https://github.com/user-attachments/assets/c58708fc-be77-426e-90b4-7230e3926e9d)
+
 
